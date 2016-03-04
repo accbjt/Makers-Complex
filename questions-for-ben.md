@@ -30,3 +30,6 @@
 
     Answer:
     
+* How should I go about figuring out cost and stretch goals?
+
+    Answer:
