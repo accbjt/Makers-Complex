@@ -22,3 +22,7 @@ todo: create a list of milestone projects to raise more funding.
 * Advanced Materials
 * Making your parts look real
 * Build Another Printer Using Your Printer
+* Make a phone cover and car mount
+* Crescent wrench project
+* Hammer
+* Flat Head Wrench
